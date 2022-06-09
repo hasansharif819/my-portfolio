@@ -64,7 +64,7 @@ const Portfolio = () => {
                             </div>
                             <div className="col-md-4 col-sm-6 mt-3">
                                 <div className="card">
-                                    <img src="images/doctor.PNG" className="card-img-top" alt="image" />
+                                    <img src="images/creative agency.PNG" className="card-img-top" alt="image" />
                                     <div className="card-body">
                                         <h5 className="card-title"><b>Tanjum's Shop</b></h5>
                                         <p style={{ color: 'black' }} className="card-text mt-4"><b>A front-end app using React, Bootstrap,
